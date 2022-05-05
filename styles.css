@@ -1,0 +1,42 @@
+.menu {
+  /* agrega el código correcto para colocar el menú correctamente.*/
+
+  justify-content: space-betweem;
+  display:flex;
+  background-color: rgb(255, 255, 255);
+  font-size: 30px;
+  font-family: sans-serif;
+  font-weight: 400;
+  color: rgb(189, 32, 90);
+  margin-left: 500px;
+}
+body {
+  background-color: rgb(255, 255, 255);
+}
+.grid {
+  /* agrega el código correcto para colocar los elementos grid  
+  uno junto al otro de igual forma.   */
+
+  display: flex;
+  flex-wrap: wrap;
+  font-family: sans-serif;
+  margin-left: 400px;
+}
+
+.grid img {
+  border: 2px solid black;
+  border-radius: 50px;
+}
+.origami {
+  border-radius: 20px;
+  background-color: white;
+  margin: 20px;
+
+  width: 310px;
+  font-family: fantasy;
+}
+
+.pri{
+  margin-left: 450px;
+  color:rgb(189, 32, 90);
+}
