@@ -20,7 +20,7 @@ body {
   display: flex;
   flex-wrap: wrap;
   font-family: sans-serif;
-  margin-left: 400px;
+  margin-left: 200px;
 }
 
 .grid img {
